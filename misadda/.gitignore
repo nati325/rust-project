@@ -1,0 +1,12 @@
+/target
+
+# Build tools installer (not needed for sharing)
+vs_buildtools.exe
+*.exe
+
+# Database file (local data)
+*.db
+
+# IDE files
+.idea/
+.vscode/
